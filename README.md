@@ -23,7 +23,7 @@ A lightweight, efficient, and modern To-Do List application built for Android. T
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/your-username/to-do-list-1.git
+    git clone https://github.com/siddhic0311/OIBSIP-to-do-list.git
     ```
 2.  **Open in Android Studio**
     - Select `File > Open` and navigate to the project folder.
