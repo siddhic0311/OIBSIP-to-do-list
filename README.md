@@ -1,5 +1,7 @@
 # Android To-Do List
 
+https://github.com/user-attachments/assets/54335e77-67f9-43a4-ac15-41a53d3202e3
+
 A lightweight, efficient, and modern To-Do List application built for Android. This app allows users to create, manage, and track daily tasks with a focus on simplicity and persistence.
 
 ## ✨ Features
